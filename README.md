@@ -3,8 +3,10 @@
 You can start the program locally here:
 src\main\java\App.java
 1. Install the Java extention package in Vscode marketplace. 
+![Alt text](<java package-1.png>)
 2. Go to src\main\java\App.java. 
 3. Click run to start the program once you install the Java extention package.
+![Alt text](<run jav-1.png>)
 
 ## Problem and Background
 Problem
