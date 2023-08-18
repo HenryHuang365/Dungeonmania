@@ -1,0 +1,1 @@
+{"entities":[{"x":3,"y":2,"type":"boulder"},{"x":3,"y":3,"type":"bomb"},{"x":8,"y":8,"type":"exit"},{"x":4,"y":5,"type":"treasure"},{"x":0,"y":2,"type":"player"},{"x":6,"y":2,"type":"wall"},{"x":5,"y":2,"type":"wall"},{"x":4,"y":2,"type":"switch"},{"x":5,"y":3,"type":"treasure"}],"goal-condition":{"goal":"exit"}}
